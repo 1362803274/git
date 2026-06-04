@@ -1,2 +1,4 @@
 # hello.py
-print("Hello, Git!")
+name = "Git"
+print(f"Hello, {name}!")
+print("Welcome to version control!")
